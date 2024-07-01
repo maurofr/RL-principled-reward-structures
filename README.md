@@ -8,7 +8,7 @@ We found that between 1-2 billion steps the bot already was experimenting with h
 
 ![Half flip into predict goal](https://github.com/maurofr/RL-principled-reward-structures/blob/main/Clips/hf_pred.gif)
 
-In this clip the bot car is a Fennec, even though an Octane was used through the entire training. 
+In this clip the bot's car is a Fennec, even though an Octane was used through the entire training. 
 
 ### Outplay
 
@@ -33,6 +33,6 @@ He still has room to improve, as the shot could have been a field-to-field goal!
 
 ### Leveraging momentum
 
-Finally we show this play where the bot gets the 100 boost and uses it to gain momentum, reach supersonic speed and score a goal due to having much more momentum than the opponent.
+Finally we show this play where the bot gets the 100 boost and uses it to gain momentum, reach supersonic speed and use that to out-speed the opponent and clearly win a fifty for a goal.
 
 ![Momentum play](https://github.com/maurofr/RL-principled-reward-structures/blob/main/Clips/momentum_long_shot.gif)
