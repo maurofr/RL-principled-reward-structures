@@ -6,4 +6,4 @@ This repository showcases the performance of an the AI agent trained in the pape
 
 We found that between 1-2 billion steps the bot already was experimenting with half flips and predicts. Look at this nice goal!
 
-![Half flip into predict goal](clips/hf_pred.gif)
+![Half flip into predict goal](https://github.com/maurofr/RL-principled-reward-structures/blob/main/Clips/hf_pred.gif)
