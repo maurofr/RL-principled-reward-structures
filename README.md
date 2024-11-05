@@ -1,7 +1,17 @@
 # Enhancing Rocket League AI Performance Using Proximal Policy Optimization with Principled Reward Structures
 
-This repository showcases the performance of an the AI agent trained in the paper _Enhancing Rocket League AI Performance Using Proximal Policy Optimization with Principled Reward Structures_.
+## Abstract
+_AI systems have consistently surpassed human performance in various games, marking significant milestones in artificial intelligence development. From IBM’s Deep Blue defeating chess grandmaster Garry Kasparov to Google’s AlphaGo mastering the ancient game of Go, these achievements highlight AI’s tactical prowess. Today, state-of-theart AI systems outperform these benchmarks, exceeding human prowess in both board and video games._
 
+_Rocket League, a popular multiplayer sports video game blending soccer with vehicular action, has emerged as a dominant force in esports since its 2015 debut. Its dynamic gameplay, which emphasizes teamwork and mechanical skill, presents a unique challenge. In this study, we demonstrate how a reinforcement learning algorithm, initialized from scratch, rapidly surpasses players with extensive gameplay experience. Furthermore, by crafting a concise set of shaping rewards based on the game’s core principles, we illustrate how the AI can autonomously acquire advanced game mechanics through self-play._
+
+_By leveraging these techniques, our research sheds light on the adaptive and learning capabilities of AI systems in mastering complex real-time environments like Rocket League._
+
+## Full paper
+
+To read the full paper, follow [this link](<Enhancing Rocket League AI Performance Using Proximal Policy Optimization with Principled Reward Structures.pdf>).
+
+## Agent performance
 ### Early mechanics
 
 We found that between 1-2 billion steps the bot already was experimenting with half flips and predicts. Look at this nice goal!
